@@ -1,5 +1,5 @@
 ---
-summary: Deploy a Node.js app to GoDaddy hosting: create, upload, preview, attach to a plan, publish
+summary: "Deploy a Node.js app to GoDaddy hosting: create, upload, preview, attach to a plan, publish"
 ---
 
 # `gddy hosting` — deploying a Node.js application

@@ -92,5 +92,5 @@ jobs:
           reviewdog_version: 0.21.0
           fail_on_error: false
           sync: false
-          files: rust/src
+          files: rust/nope
           glob: "**/guides/*.md"
